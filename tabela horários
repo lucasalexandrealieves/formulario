@@ -2,114 +2,127 @@
 
 <tr>
 
-< td>Horário</td> 
+<td>Horário</td> 
 7:10
-< td>Segunda</td>
+<td>Segunda</td>
 Matemática
-< td>Horário</td> 
+<td>Horário</td> 
 7:10
-< td>Terça</td>
+<td>Terça</td>
  Biologia
-< td>Horário</td>
+<td>Horário</td>
  7:10
-< td>Quarta</td>
+<td>Quarta</td>
  L. Inglesa  
-< td>Horário</td> 
+<td>Horário</td> 
  7:10 
-< td>Quinta</td>
+<td>Quinta</td>
  L. Portuguesa 
-< td>Horário</td>
+<td>Horário</td>
  7:10 
-< td>Sexta</td>
+<td>Sexta</td>
 Ed. Financeira 
 </tr>
 
 </table>
-< td>Horário</td>
+<td>Horário</td>
 8:00
-< td>Segunda</td>
+<td>Segunda</td>
 Filosofia
-< td>Horário</td>
+<td>Horário</td>
 8:00
-< td>Terça</td>
+<td>Terça</td>
 Física
-< td>Horário</td>
+<td>Horário</td>
 8:00
-< td>Quarta</td>
+<td>Quarta</td>
 História
-< td>Horário</td>
+<td>Horário</td>
 8:00
-< td>Quinta</td>
+<td>Quinta</td>
 Pc
-< td>Horário</td>
+<td>Horário</td>
 8:00
-< td>Sexta</td>
+<td>Sexta</td>
 L. Inglesa
-< td>Horário</td>
+<td>Horário</td>
 8:00
 
 
-< td>Horário</td>
+<td>Horário</td>
 8:50
-< td>Segunda</td>
+<td>Segunda</td>
 Ed. Físaca
-< td>Horário</td>
+<td>Horário</td>
 8:50
-< td>Terça</td>
+<td>Terça</td>
 Química
-< td>Horário</td>
+<td>Horário</td>
 8:50
-< td>Quarta</td>
+<td>Quarta</td>
 Geografia
-< td>Horário</td>
+<td>Horário</td>
 8:50
-< td>Quinta</td>
+<td>Quinta</td>
 Projeto de Vida
-< td>Horário</td>
+<td>Horário</td>
 8:50
-< td>Sexta</td>
+<td>Sexta</td>
 História
-< td>Horário</td>
+<td>Horário</td>
 8:50
 
 
-< td>Horário</td>
+<d>Horário</td>
 9:50
-< td>Segunda</td>
+<td>Segunda</td>
 L. Inglesa
-< td>Horário</td>
+<td>Horário</td>
 9:50
-< td>Terça</td>
+<td>Terça</td>
 Filosfia
-< td>Horário</td>
+<td>Horário</td>
 9:50
-< td>Quarta</td>
+<td>Quarta</td>
 L. Portuguesa
-< td>Horário</td>
+<td>Horário</td>
 9:50
-< td>Quinta</td>
+<td>Quinta</td>
 Filosofia
-< td>Horário</td>
+<td>Horário</td>
 9:50
-< td>Sexta</td>
+<td>Sexta</td>
 L. Portuguesa
-< td>Horário</td>
+<td>Horário</td>
 9:50
 
 
-< td>Horário</td>
+<td>Horário</td>
+10:40
+<td>Segunda</td>
 
-< td>Segunda</td>
+<td>Horário</td>
+10:40
 
-< td>Terça</td>
+<td>Terça</td>
 
-< td>Quarta</td>
+<td>Horário</td>
+10:40
 
-< td>Quinta</td>
+<td>Quarta</td>
 
-< td>Sexta</td>
+<td>Horário</td>
+10:40
 
+<td>Quinta</td>
 
+<td>Horário</td>
+10:40
+
+<td>Sexta</td>
+
+<td>Horário</td>
+10:40
 
 
 
